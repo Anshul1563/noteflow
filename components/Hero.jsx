@@ -23,7 +23,7 @@ const Hero = () => {
 		<main className="container pt-24 text-white flex flex-col justify-center">
 			<div className="flex items-center justify-between sm:mb-20 mb-14 -mt-4">
 				<div className="flex gap-x-4 items-center">
-					<a href="https://github.com/Nexus-PES/Noteflow">
+					<a href="https://github.com/Nexus-PES/NoteVault">
 						<BsGithub className="h-6 w-6 inline-block" />
 						<span className="sr-only">Github Repo Link</span>
 						<span className="px-2 text-xs text-text-100 hidden sm:inline-block font-semibold">
@@ -104,7 +104,7 @@ const Hero = () => {
 
 			<div className="flex justify-center h-[10vh] sm:h-[15vh] md:h-[20vh] max-h-[250px] pt-10 sm:pt-14">
 				<h1 className="font-poppins flex items-center text-clamp-heading font-black">
-					Noteflow
+					NoteVault
 				</h1>
 			</div>
 		</main>
