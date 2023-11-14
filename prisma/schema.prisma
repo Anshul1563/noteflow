@@ -1,0 +1,27 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "cockroachdb"
+  url      = env("DATABASE_URL")
+}
+
+model Notes {
+  id               String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  title            String
+  content          String
+  createdDate      DateTime @default(now())
+  lastModifiedDate DateTime @updatedAt
+  tag         String
+  User             User?    @relation(fields: [userId], references: [id])
+  userId           String?
+}
+
+model User {
+  id             String  @id
+  email          String   
+  name           String
+  profilePicture String
+  notes          Notes[]
+}
