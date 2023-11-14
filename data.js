@@ -29,7 +29,7 @@ export const comments = [
 		imageUrl: "/images/profile.png",
 		name: "EmilyD",
 		comment:
-			"NoteVault has revolutionized my note-taking experience. The bidirectional linking is a game-changer for connecting my thoughts.",
+			"Noteflow has revolutionized my note-taking experience. The bidirectional linking is a game-changer for connecting my thoughts.",
 		rating: 5,
 	},
 	{
@@ -37,7 +37,7 @@ export const comments = [
 		name: "AlexNoteTaker",
 		imageUrl: "/images/profile.png",
 		comment:
-			"Markdown support in NoteVault makes formatting a breeze. It's my go-to platform for organized notekeeping.",
+			"Markdown support in Noteflow makes formatting a breeze. It's my go-to platform for organized notekeeping.",
 		rating: 4,
 	},
 	{
@@ -45,7 +45,7 @@ export const comments = [
 		name: "IdeasExplorer",
 		imageUrl: "/images/profile.png",
 		comment:
-			"I'm eagerly waiting for the collaboration feature to be added. NoteVault is already fantastic for managing my ideas.",
+			"I'm eagerly waiting for the collaboration feature to be added. Noteflow is already fantastic for managing my ideas.",
 		rating: 4,
 	},
 	{
@@ -53,7 +53,7 @@ export const comments = [
 		name: "PrivacyFirst",
 		imageUrl: "/images/profile.png",
 		comment:
-			"The emphasis on data security in NoteVault is a major plus. I feel confident in storing sensitive information here.",
+			"The emphasis on data security in Noteflow is a major plus. I feel confident in storing sensitive information here.",
 		rating: 5,
 	},
 	{
@@ -61,7 +61,7 @@ export const comments = [
 		name: "CreativeWriter123",
 		imageUrl: "/images/profile.png",
 		comment:
-			"NoteVault's bidirectional linking helps me see the bigger picture of my writing projects. It's a writer's dream tool.",
+			"Noteflow's bidirectional linking helps me see the bigger picture of my writing projects. It's a writer's dream tool.",
 		rating: 5,
 	},
 ];
@@ -69,8 +69,8 @@ export const comments = [
 export const faq = [
 	{
 		id: 1,
-		title: "What is NoteVault?",
-		desc: "NoteVault is an innovative note-taking platform designed to enhance your organization and idea connections.",
+		title: "What is Noteflow?",
+		desc: "Noteflow is an innovative note-taking platform designed to enhance your organization and idea connections.",
 	},
 	{
 		id: 2,
@@ -80,17 +80,17 @@ export const faq = [
 	{
 		id: 3,
 		title: "Can I access my notes offline?",
-		desc: "Yes, NoteVault supports offline access. Any changes you make offline will sync when you're back online.",
+		desc: "Yes, Noteflow supports offline access. Any changes you make offline will sync when you're back online.",
 	},
 	{
 		id: 4,
-		title: "Is my data secure on NoteVault?",
+		title: "Is my data secure on Noteflow?",
 		desc: "Absolutely. We prioritize data security and use encryption to protect your notes and privacy.",
 	},
 	{
 		id: 5,
-		title: "What formatting options does NoteVault offer?",
-		desc: "NoteVault supports Markdown formatting, allowing you to style your notes with simple syntax.",
+		title: "What formatting options does Noteflow offer?",
+		desc: "Noteflow supports Markdown formatting, allowing you to style your notes with simple syntax.",
 	},
 	{
 		id: 6,
@@ -105,7 +105,7 @@ export const faq = [
 	{
 		id: 8,
 		title: "How can I import/export my notes?",
-		desc: "NoteVault offers import and export options, making migration and backup simple.",
+		desc: "Noteflow offers import and export options, making migration and backup simple.",
 	},
 	{
 		id: 9,
@@ -115,32 +115,32 @@ export const faq = [
 	{
 		id: 10,
 		title: "Are there keyboard shortcuts?",
-		desc: "Yes, NoteVault provides keyboard shortcuts for efficient navigation and actions.",
+		desc: "Yes, Noteflow provides keyboard shortcuts for efficient navigation and actions.",
 	},
 	{
 		id: 11,
 		title: "Can I customize the theme?",
-		desc: "Absolutely! NoteVault offers customizable themes to personalize your note-taking environment.",
+		desc: "Absolutely! Noteflow offers customizable themes to personalize your note-taking environment.",
 	},
 	{
 		id: 12,
-		title: "How does NoteVault ensure privacy?",
+		title: "How does Noteflow ensure privacy?",
 		desc: "We follow industry-standard security practices to ensure your data remains private and secure.",
 	},
 	{
 		id: 13,
 		title: "Is offline access available?",
-		desc: "Yes, NoteVault lets you access your notes even when you're offline.",
+		desc: "Yes, Noteflow lets you access your notes even when you're offline.",
 	},
 	{
 		id: 14,
 		title: "What is Markdown?",
-		desc: "Markdown is a simple markup language supported by NoteVault for text formatting.",
+		desc: "Markdown is a simple markup language supported by Noteflow for text formatting.",
 	},
 	{
 		id: 15,
 		title: "When can I expect new features?",
-		desc: "We're continually working to improve NoteVault. Expect exciting updates and new features regularly.",
+		desc: "We're continually working to improve Noteflow. Expect exciting updates and new features regularly.",
 	},
 ];
 
@@ -173,20 +173,20 @@ export const footer = [
 
 export const notesData = [
 	{
-		title: "Welcome to NoteVault 👋",
+		title: "Welcome to Noteflow 👋",
 		createdDate: new Date(),
 		lastModifiedDate: new Date(),
-		tag : "Welcome",
-		content: `# Welcome to [NoteVault](https://notevault.vercel.app) Markdown Notepad
+		tag: "Welcome",
+		content: `# Welcome to [Noteflow](https://Noteflow.vercel.app) Markdown Notepad
 
 
 	
-![Note Vault Logo](https://github.com/Nexus-PES/NoteVault/assets/86056181/49cbfd6c-61ad-42ba-bbd3-308604fc73de "Note Vault Logo")
+![Note Vault Logo](https://github.com/Nexus-PES/Noteflow/assets/86056181/49cbfd6c-61ad-42ba-bbd3-308604fc73de "Note Vault Logo")
 
 
-> NoteVault is your go-to platform for creating and managing markdown notes with ease. Whether you're a seasoned markdown pro or just getting started, NoteVault simplifies the process of taking and organizing your notes, all while providing a seamless markdown preview feature. With NoteVault, your notes come to life as you write, making it effortless to create beautifully formatted documents. 
+> Noteflow is your go-to platform for creating and managing markdown notes with ease. Whether you're a seasoned markdown pro or just getting started, Noteflow simplifies the process of taking and organizing your notes, all while providing a seamless markdown preview feature. With Noteflow, your notes come to life as you write, making it effortless to create beautifully formatted documents. 
 
-## Key Features of NoteVault
+## Key Features of Noteflow
 
 ### 1. **Real-time Markdown Preview**
    - Instantly visualize how your markdown text will appear, allowing you to catch formatting errors on the fly.
@@ -204,11 +204,11 @@ export const notesData = [
    - Personalize your writing experience with customizable themes, making your notepad as unique as your content.
 
 ### 6. **Cross-Platform Compatibility**
-   - Access your notes from anywhere, whether it's on your desktop, tablet, or smartphone, thanks to NoteVault's cloud-based platform.
+   - Access your notes from anywhere, whether it's on your desktop, tablet, or smartphone, thanks to Noteflow's cloud-based platform.
 
 ### 7. **Security and Privacy**
    - Rest assured knowing your notes are secure with encryption and user-friendly privacy settings.
 
-Get ready to supercharge your markdown writing experience with NoteVault! Start creating, formatting, and organizing your notes effortlessly today. Whether you're a student, writer, developer, or anyone who loves markdown, NoteVault has you covered. Happy writing!`,
+Get ready to supercharge your markdown writing experience with Noteflow! Start creating, formatting, and organizing your notes effortlessly today. Whether you're a student, writer, developer, or anyone who loves markdown, Noteflow has you covered. Happy writing!`,
 	},
 ];

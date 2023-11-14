@@ -1,5 +1,6 @@
 import prisma from "../../../prisma/prisma"
 
+
 export async function POST(request: Request) {
     const res = await request.json()
     const { id } = await res

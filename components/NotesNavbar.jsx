@@ -37,17 +37,14 @@ const NotesNavbar = ({
 								main ? "text-white" : "text-slate-400"
 							} hover:text-white cursor-pointer px-2 py-1 text-xs focus:bg-transparent focus:outline-none`}
 						>
-							NoteVault
+							Noteflow
 						</Link>
 					</li>
 				)}
 
 				<ul className="flex items-center justify-center">
 					{paths.map((path) => (
-						<li
-							key={path.id}
-							className="flex items-center"
-						>
+						<li key={path.id} className="flex items-center">
 							<span className="inline-bloack file:text-slate-400 font-xs hover:text-white">
 								/
 							</span>
@@ -55,7 +52,9 @@ const NotesNavbar = ({
 								href={path.href}
 								className="inline-bloack file:text-gray-100
 								block px-2 py-1 text-xs leading-5
-								hover:text-white" >{path.title}
+								hover:text-white"
+							>
+								{path.title}
 							</Link>
 						</li>
 					))}

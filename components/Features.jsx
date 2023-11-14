@@ -7,11 +7,11 @@ const Features = () => {
 		<div>
 			<div className="grid grid-col-1 mb-8 sm:mb-12 md:mb-14">
 				<div className="font-poppins font-semibold text-clamp-subheading">
-					Why <span className="text-primary">NoteVault</span> ?
+					Why <span className="text-primary">Noteflow</span> ?
 				</div>
 			</div>
 			<div className="grid gap-4 sm:gap-5 grid-cols-1 lg:grid-cols-2 2xl:grid-cols-4">
-				{features.map((feature,i) => (
+				{features.map((feature, i) => (
 					<div
 						className="rounded flex gap-5 flex-[1] border-stone-800 border hover:bg-dark-100 hover:drop-shadow-md"
 						key={i}

@@ -11,10 +11,7 @@ export default function Footer() {
 					aria-label="Footer"
 				>
 					{footer.map((footer_link, i) => (
-						<div
-							className="px-5 py-2"
-							key={footer_link.title}
-						>
+						<div className="px-5 py-2" key={footer_link.title}>
 							<Link
 								href={footer_link.link}
 								className="text-sm text-gray-200 hover:text-secondary-600"
@@ -32,7 +29,7 @@ export default function Footer() {
 							className="mx-2 text-secondary-600 hover:text-primary transition-colors"
 							rel="noopener noreferrer"
 						>
-							@NoteVault
+							@Noteflow
 						</Link>
 						since 2023
 					</span>
