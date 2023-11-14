@@ -1,7 +1,7 @@
 # Note Vault
 
 <p align="center">
-	<img src="https://github.com/Nexus-PES/NoteVault/assets/86056181/49cbfd6c-61ad-42ba-bbd3-308604fc73de" alt="NoteVault Logo">
+	<img src="https://github.com/Anshul1563/noteflow/assets/86056181/49cbfd6c-61ad-42ba-bbd3-308604fc73de" alt="NoteVault Logo">
 <!-- 	<br /> -->
 <!-- 	<img src="https://img.shields.io/badge/NoteVault-FF5416" alt="notevault"> -->
 </p>
@@ -73,7 +73,7 @@ Thank you for choosing Notevault. We hope you enjoy this release, and we look fo
 Happy Note-taking! 📝✨
 
 **Notevault Team**
-*Your Notes, Your Way*
+_Your Notes, Your Way_
 
 [Get Notevault](https://example.com/notevault-download) | [GitHub Repository](https://github.com/notevault)
 

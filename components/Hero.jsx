@@ -11,7 +11,6 @@ import Comment from "../components/Comment";
 import { useSession, signIn, signOut } from "next-auth/react";
 import { BsGithub } from "react-icons/bs";
 
-
 const Hero = () => {
 	const { data: session } = useSession();
 	let avatar;
@@ -23,7 +22,7 @@ const Hero = () => {
 		<main className="container pt-24 text-white flex flex-col justify-center">
 			<div className="flex items-center justify-between sm:mb-20 mb-14 -mt-4">
 				<div className="flex gap-x-4 items-center">
-					<a href="https://github.com/Nexus-PES/NoteVault">
+					<a href="https://github.com/Anshul1563/noteflow">
 						<BsGithub className="h-6 w-6 inline-block" />
 						<span className="sr-only">Github Repo Link</span>
 						<span className="px-2 text-xs text-text-100 hidden sm:inline-block font-semibold">

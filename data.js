@@ -176,12 +176,12 @@ export const notesData = [
 		title: "Welcome to NoteVault 👋",
 		createdDate: new Date(),
 		lastModifiedDate: new Date(),
-		tag : "Welcome",
+		tag: "Welcome",
 		content: `# Welcome to [NoteVault](https://notevault.vercel.app) Markdown Notepad
 
 
 	
-![Note Vault Logo](https://github.com/Nexus-PES/NoteVault/assets/86056181/49cbfd6c-61ad-42ba-bbd3-308604fc73de "Note Vault Logo")
+![Note Vault Logo](https://github.com/Anshul1563/noteflow/assets/86056181/49cbfd6c-61ad-42ba-bbd3-308604fc73de "Note Vault Logo")
 
 
 > NoteVault is your go-to platform for creating and managing markdown notes with ease. Whether you're a seasoned markdown pro or just getting started, NoteVault simplifies the process of taking and organizing your notes, all while providing a seamless markdown preview feature. With NoteVault, your notes come to life as you write, making it effortless to create beautifully formatted documents. 
